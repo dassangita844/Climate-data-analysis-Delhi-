@@ -24,8 +24,8 @@ The dataset includes daily meteorological data with the following key features:
 ### **Data Source**
 The weather data has been sourced from the **Weather Underground API**, a reliable provider of daily weather observations. This dataset is publicly available on **Kaggle** and can be accessed through the following links:
 
-- **[Train Data](https://www.kaggle.com)**: Contains training data for the model.
-- **[Test Data](https://www.kaggle.com)**: Contains test data for validation.
+- **[Train Data]([https://www.kaggle.com](https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data/data?select=DailyDelhiClimateTrain.csv))**: Contains training data for the model.
+- **[Test Data]([https://www.kaggle.com](https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data/data?select=DailyDelhiClimateTest.csv))**: Contains test data for validation.
 
 ### **Project Highlights**
 - **Time Series Analysis**: Explore temporal trends in Delhi's weather, including temperature, humidity, wind speed, and pressure.
@@ -39,7 +39,7 @@ For questions, feedback, or collaboration opportunities, feel free to reach out 
 
 **Sangita Das**  
 Email: dassangita844@gmail.com  
-GitHub: [Delhi's climate data analysis](https://github.com/sangitadas)  
+GitHub: [Delhi's climate data analysis]([https://github.com/sangitadas](https://github.com/dassangita844/Climate-data-analysis-Delhi-))  
 
 ### **Acknowledgments**
 - **Weather Underground API** for providing reliable weather data.
