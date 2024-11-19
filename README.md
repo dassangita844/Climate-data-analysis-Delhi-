@@ -1,9 +1,9 @@
-# **Delhi's Daily Climate Time Series Data**
+# **Delhi's Daily Climate Time Series Data Analysis**
+
 *Sangita Das*
 
 ### **Introduction**
 This project focuses on analyzing Delhi's daily climate data spanning from January 1st, 2013, to April 24th, 2017. Delhi, as one of the world's most populous and rapidly growing cities, experiences significant climate challenges with implications for public health, urban planning, and sustainability. By studying detailed weather patterns during this four-year period, this project aims to uncover trends and insights that can inform decision-making on climate resilience and infrastructure planning.
-
 
 ### **Objectives**
 The primary objectives of this project are:
